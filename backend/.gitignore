@@ -1,0 +1,5 @@
+# Nodejs
+**/node_modules/*
+
+# Should be individual
+config/credentials.js
